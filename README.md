@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!--
 **faishalnafi/faishalnafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Elian Hardiawan</h1>
-<h3 align="center">A backend developer from Indonesia</h3>
+<h1 align="center">Hi 👋, I'm Faishal Nafi'</h1>
+<h3 align="center">A Junior Developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elianhardyy&label=Profile%20views&color=0e75b6&style=flat" alt="elianhardyy" /> </p>
 
