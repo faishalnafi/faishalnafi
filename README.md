@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=220&section=header&text=Hi%20there,%20I'm%20Faishal%20Nafi'%20👋&fontSize=42&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descFontSize=20&descAlignY=62" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=220&section=header&text=Hi%20there,%20I'm%20Faishal%20Nafi'%20👋&fontSize=42&fontAlignY=40&animation=fadeIn&desc=Junior%20Infrastructure%20Engineer%20%7C%20Cloud%20%26%20DevOps%20Enthusiast&descFontSize=20&descAlignY=62" width="100%" alt="Header" />
 </div>
 
 <div align="center">
@@ -16,54 +16,48 @@
 
 ```yaml
 name: Faishal Nafi'
-role: Software Engineer / Full Stack Developer
-location: Indonesia
-learning: Python, Modern Cloud Architecture, Advanced System Design
-interests: Full Stack Web Development, Mobile Apps, Open Source
-collaboration: Mafia Code Community
+role: Junior Infrastructure Engineer
+interests: Cloud Infrastructure, Containerization, CI/CD, System Automation, Linux
+learning: Docker, Kubernetes, Terraform, Cloud Architecture, Linux Administration
+collaboration: Infrastructure Automation, Open Source DevOps Tooling
 contact: mail@faishalnafi.com
 ```
 
-- 🔭 Building and scaling web & mobile solutions with modern technologies.
-- 🤝 Actively collaborating on projects with [Mafia Code](https://github.com/faishalnafi/Mafia-Code-Community-Landing-Page).
-- 💬 Ask me about **Full Stack Development, Backend APIs, and Mobile Apps**.
-- ⚡ Fun fact: *Writing clean code and automating workflows excites me.*
+- ⚙️ Focused on automating infrastructure, managing containers, and maintaining reliable systems.
+- 🚀 Exploring Cloud technologies, CI/CD pipelines, and Infrastructure as Code (IaC).
+- 💬 Ask me about **Linux, Docker, Networking fundamentals, and Backend/System Scripting**.
+- ⚡ Fun fact: *"Automating a 5-minute task with a script that took 2 hours to build is my passion."*
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Tooling
 
 <div align="center">
 
-#### Languages
+#### Infrastructure, Cloud & Containers
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+#### Scripting & Systems Programming
+<p>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-</p>
-
-#### Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
 
-#### Databases & Cloud / Tools
+#### Databases & Monitoring / Tools
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 </div>
