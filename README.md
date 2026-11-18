@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m collaborating with [Mafia Code](https://github.com/faishalnafi/Mafia-Code-Community-Landing-Page)
 
-- 📫 How to reach me **care@faishalnafi.com**
+- 📫 How to reach me **mail@faishalnafi.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
