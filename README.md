@@ -3,9 +3,9 @@
 # Faishal Nafi'
 ### Junior Infrastructure Engineer · Cloud & DevOps Enthusiast
 
-[![Profile Views](https://komarev.com/ghpvc/?username=faishalnafi&label=Views&color=0e75b6&style=flat-square)](https://github.com/faishalnafi)
-[![GitHub Followers](https://img.shields.io/github/followers/faishalnafi?label=Followers&style=flat-square&color=blue)](https://github.com/faishalnafi)
-[![Email](https://img.shields.io/badge/Email-mail%40faishalnafi.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:mail@faishalnafi.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=faishalnafi&label=Views&color=4285F4&style=flat-square)](https://github.com/faishalnafi)
+[![GitHub Followers](https://img.shields.io/github/followers/faishalnafi?label=Followers&style=flat-square&color=4285F4)](https://github.com/faishalnafi)
+[![Email](https://img.shields.io/badge/Email-mail%40faishalnafi.com-4285F4?style=flat-square&logo=gmail&logoColor=white)](mailto:mail@faishalnafi.com)
 
 <p align="center">
   Building reliable systems, automating infrastructure, and exploring cloud-native architectures.
@@ -38,10 +38,10 @@
 ### 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faishalnafi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faishalnafi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faishalnafi&show_icons=true&title_color=4285F4&icon_color=4285F4&text_color=9AA0A6&bg_color=0D1117&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faishalnafi&layout=compact&title_color=4285F4&text_color=9AA0A6&bg_color=0D1117&hide_border=true" alt="Top Languages" width="48%" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=faishalnafi&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="97%" />
+  <img src="https://streak-stats.demolab.com?user=faishalnafi&hide_border=true&background=0D1117&ring=4285F4&fire=4285F4&currStreakNum=4285F4&sideNums=4285F4&sideLabels=9AA0A6&currStreakLabel=4285F4&dates=9AA0A6" alt="GitHub Streak" width="97%" />
 </div>
 
 ---
