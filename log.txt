@@ -1,0 +1,74 @@
+﻿================================================================================
+                    CHANGELOG & REBRANDING AUDIT LOG
+                       Repository: faishalnafi/faishalnafi
+================================================================================
+
+[2026-11-19 01:33:19 +07:00]
+Commit: e738b1f
+Type  : style
+Title : style: apply Google Blue theme to badges and stats cards
+Changes:
+  - Mengubah seluruh aksen warna ungu/pink (Radical theme) menjadi palet Google Blue (#4285F4).
+  - Mengupdate warna badges Profile Views, Followers, dan Email dengan #4285F4.
+  - Menyesuaikan query parameter pada GitHub Stats dan Top Languages API:
+    * title_color  : 4285F4
+    * icon_color   : 4285F4
+    * text_color   : 9AA0A6
+    * bg_color     : 0D1117 (Dark Mode GitHub)
+  - Menyesuaikan warna kartu GitHub Streak (ring, fire icon, streak numbers & labels) ke Google Blue (#4285F4).
+Status: Pushed to origin/pro
+
+--------------------------------------------------------------------------------
+
+[2026-11-19 01:31:49 +07:00]
+Commit: b415c55
+Type  : docs
+Title : docs: add GitHub streak stats with fire indicator
+Changes:
+  - Menambahkan kartu visual GitHub Streak Stats dari domain stabil (streak-stats.demolab.com).
+  - Menyertakan indikator ikon api (fire streak) dengan tema borderless dan background #0D1117.
+Status: Pushed to origin/pro
+
+--------------------------------------------------------------------------------
+
+[2026-11-19 01:28:54 +07:00]
+Commit: d072f8d
+Type  : docs
+Title : docs: modernize and simplify profile with clean infra branding and stats
+Changes:
+  - Rombak total struktur README menjadi minimalis, bersih, dan elegan.
+  - Menghapus komponen trophy eksternal yang mengalami broken link (HTTP 402 error).
+  - Memperbarui afiliasi open-source dari 'Mafia Code' menjadi 'Lintas Asia Group'.
+  - Menyusun ulang Tech Stack ke dalam format Markdown Table terstruktur (Infrastructure & Cloud, Scripting & Languages, Databases & APIs).
+  - Menambahkan Quick Summary berorientasi Infrastructure & Reliability.
+Status: Pushed to origin/pro
+
+--------------------------------------------------------------------------------
+
+[2026-11-19 01:24:00 +07:00]
+Commit: d446a31
+Type  : docs
+Title : docs: rebrand profile as Junior Infrastructure Engineer
+Changes:
+  - Penyesuaian identitas branding dari 'Full Stack Developer' menjadi 'Junior Infrastructure Engineer'.
+  - Menyelaraskan minat ke arah Cloud Infrastructure, Containerization, CI/CD, dan Linux Administration.
+  - Memprioritaskan toolchain DevOps: Linux, Docker, Kubernetes, Nginx, GitHub Actions, Bash, Python.
+Status: Pushed to origin/pro
+
+--------------------------------------------------------------------------------
+
+[2026-11-19 01:20:47 +07:00]
+Commit: 3ada9bc
+Type  : docs
+Title : docs: rebrand profile with modern aesthetic, badges, and tech stack
+Changes:
+  - Inisialisasi perombakan README dari template profil lama:
+    * Penambahan dynamic header banner.
+    * Pengelompokan badges Shields.io untuk bahasa dan tools.
+    * Penambahan integrasi statistik GitHub pihak ketiga.
+Status: Pushed to origin/pro
+
+================================================================================
+Log file generated on: 2026-11-19 01:35:00 +07:00
+Target File: C:\Users\Nafi'\Desktop\faishalnafi\log.txt
+================================================================================
